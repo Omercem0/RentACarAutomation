@@ -19,9 +19,9 @@ A professional car rental project developed using **C# Windows Forms** and **SQL
 * System.Windows.Forms.DataVisualization (Charts)
 
 ## 📷 Screenshots
-<img width="499" height="579" alt="ss1" src="https://github.com/user-attachments/assets/2f5fe78e-d5c3-4f57-903b-731801c3e066" />
-<img width="1148" height="625" alt="ss2" src="https://github.com/user-attachments/assets/50b5ef6d-5392-488d-ba04-921bfb156cc9" />
-<img width="1147" height="624" alt="ss3" src="https://github.com/user-attachments/assets/1a744520-e563-4008-8704-798d5aed84bb" />
+<img width="505" height="583" alt="Ekran görüntüsü 2025-12-11 180937" src="https://github.com/user-attachments/assets/03255661-345f-484f-b440-847d10757baa" />
+<img width="1148" height="625" alt="Ekran görüntüsü 2025-12-11 181108" src="https://github.com/user-attachments/assets/938d33c5-7372-4cce-9121-1825a43c31dc" />
+<img width="1147" height="624" alt="Ekran görüntüsü 2025-12-11 181208" src="https://github.com/user-attachments/assets/9c3b4a4e-547a-4fce-b8b5-2764cdf4ce3c" />
 
 
 ## 🚀 Installation
